@@ -1,0 +1,9 @@
+# Run in Python 3.10+ with a Jupyter kernel
+numpy>=1.24,<3
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+yfinance>=0.2.0,<2
+nbformat>=5.8,<6
+nbconvert>=7,<8
+nbclient>=0.10,<1
+ipykernel>=6,<8

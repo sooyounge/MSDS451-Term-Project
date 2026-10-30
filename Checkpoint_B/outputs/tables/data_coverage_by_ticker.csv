@@ -1,0 +1,7 @@
+Ticker,FirstPriceDate,LastPriceDate,ValidAdjustedCloses,MissingOrInvalidAdjClose,DividendsRows,Source
+SPY,1993-01-29,2026-10-26,8493,0,136,Yahoo Finance via yfinance
+XLF,1998-12-22,2026-10-26,7003,0,111,Yahoo Finance via yfinance
+XLV,1998-12-22,2026-10-26,7003,0,106,Yahoo Finance via yfinance
+IEF,2002-07-30,2026-10-26,6100,0,291,Yahoo Finance via yfinance
+GLD,2004-11-18,2026-10-26,5518,0,0,Yahoo Finance via yfinance
+SHY,2002-07-30,2026-10-26,6100,0,290,Yahoo Finance via yfinance

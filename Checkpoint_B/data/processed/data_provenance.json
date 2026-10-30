@@ -1,0 +1,28 @@
+{
+  "notebook_run_utc": "2026-10-27T23:11:27.747128+00:00",
+  "archived_data_download_date": "2026-10-26",
+  "source": "Yahoo Finance via yfinance",
+  "download_fresh_this_run": false,
+  "requested_start_inclusive": "1993-01-01",
+  "requested_end_exclusive": "2026-10-27",
+  "tickers": [
+    "SPY",
+    "XLF",
+    "XLV",
+    "IEF",
+    "GLD",
+    "SHY"
+  ],
+  "price_field": "Adj Close",
+  "returns_definition": "100 * natural log ratio of consecutive adjusted prices",
+  "total_return_caveat": "Adj Close is a dividend/split-adjusted proxy; not independently audited",
+  "common_start": "2004-11-18",
+  "common_end": "2026-10-26",
+  "annualization_trading_days": 252,
+  "market_history_claim": "Observed historical adjusted prices; no strategy performance claimed",
+  "versions": {
+    "pandas": "3.0.3",
+    "numpy": "2.4.6",
+    "yfinance": "1.6.0"
+  }
+}
