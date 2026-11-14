@@ -28,7 +28,7 @@ Five candidates: SPY, XLF, XLV, IEF, GLD. At each completed month-end, identify 
 
 ## Repository files
 
-- `Checkpoint_C_Research_Report.pdf` and `.docx` — performance-evaluation research report dated **November 13, 2026**. Review the files before submission.
+- `Checkpoint_C_Research_Report.pdf` and `.docx` — performance-evaluation research report dated **November 15, 2026**.
 - `Checkpoint_C_Performance_Evaluation.ipynb` — executed notebook and all reproducible calculations.
 - `Checkpoint_C_Performance_Evaluation.html` — exported notebook with saved outputs.
 - `requirements.txt` — Python dependencies.
