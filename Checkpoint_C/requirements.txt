@@ -1,0 +1,9 @@
+# Python 3.10+; run: python -m pip install -r requirements.txt
+numpy>=1.24,<3
+pandas>=2.0,<4
+matplotlib>=3.7,<4
+nbformat>=5.8,<6
+nbconvert>=7,<8
+nbclient>=0.10,<1
+IPython>=8,<10
+ipykernel>=6,<8

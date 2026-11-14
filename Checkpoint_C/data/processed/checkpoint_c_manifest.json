@@ -1,0 +1,19 @@
+{
+  "source": "Yahoo Finance / yfinance archival CSVs from Checkpoint B",
+  "archived_download_date": "2026-10-26",
+  "analysis_generated_utc": "2026-11-11T06:21:45.016022+00:00",
+  "historical_start": "2004-11-18",
+  "historical_end": "2026-10-26",
+  "rule": "126-day positive momentum and 200-day SMA; top two 50% each; balance SHY",
+  "trade_timing": "completed month-end signal / following trading close",
+  "mc_calibration_end": "2015-12-31",
+  "mc_test_start": "2016-01-04",
+  "mc_paths_long_horizon": 160,
+  "walk_forward_paths_per_year": 24,
+  "walk_forward_years": "2016-2025",
+  "block_length_mean_days": 21,
+  "numpy_random_seed": 4512026,
+  "baseline_management_fee_annual": 0.0025,
+  "baseline_trade_cost_bps": 10.0,
+  "caveat": "Hypothetical stationary-bootstrap paths; not expected returns or real investment results"
+}
